@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1474497568 source:c:\users\jose\desktop\clases de programacion c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"UTN.h"
+
+1474471448 c:\users\jose\desktop\clases de programacion c\utn.h
+
+1474481736 source:c:\users\jose\desktop\clases de programacion c\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
